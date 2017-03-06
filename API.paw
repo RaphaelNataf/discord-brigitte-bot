@@ -1,0 +1,406 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE database SYSTEM "file:///System/Library/DTDs/CoreData.dtd">
+
+<database>
+    <databaseInfo>
+        <version>134481920</version>
+        <UUID>1FA6C84C-9B21-4CAE-A39E-CA652E18A743</UUID>
+        <nextObjectID>136</nextObjectID>
+        <metadata>
+            <plist version="1.0">
+                <dict>
+                    <key>NSPersistenceFrameworkVersion</key>
+                    <integer>641</integer>
+                    <key>NSStoreModelVersionHashes</key>
+                    <dict>
+                        <key>LMCookieJar</key>
+                        <data>
+		Fttmf2L4PrGvKUF496+nqgVVGek45TjOe7sUMtjNg8I=
+		</data>
+                        <key>LMEnvironment</key>
+                        <data>
+		uzBoVFcO4YvR9/3ej4AJ1UOOsA/u5DKY2aemusoIseU=
+		</data>
+                        <key>LMEnvironmentDomain</key>
+                        <data>
+		yM1GPGHdquS8IWLtuczlNoqKhIhD9FW6IReSfFffJgs=
+		</data>
+                        <key>LMEnvironmentVariable</key>
+                        <data>
+		P8e0lYd5JZKRabS/eXVSOJ4oitilz67xtv+pLqW1Jqg=
+		</data>
+                        <key>LMEnvironmentVariableValue</key>
+                        <data>
+		my5hNPJ51oDCSa8EgdNxWAnRcDLcERUGjtuXnzhSxQ0=
+		</data>
+                        <key>LMKeyValue</key>
+                        <data>
+		bIXXbyYF2xAv2MXg8JTVFsslmMKuvsfnR86QdUcFkdM=
+		</data>
+                        <key>LMRequest</key>
+                        <data>
+		kYB6By9dZHqmH3YNw3h9tYPoxeG5ZWHPfhLXXp7OLFs=
+		</data>
+                        <key>LMRequestGroup</key>
+                        <data>
+		N3ml+gYVWc4m0LSGLnBDJ37p9isOc41y+TtaM0Eacrc=
+		</data>
+                        <key>LMRequestTreeItem</key>
+                        <data>
+		ak+hYb/lDeG55U0kgGvU5ej7HUltUj0RTrX5z/izNrs=
+		</data>
+                    </dict>
+                    <key>NSStoreModelVersionHashesVersion</key>
+                    <integer>3</integer>
+                    <key>NSStoreModelVersionIdentifiers</key>
+                    <array>
+                        <string>LMDocumentVersion3</string>
+                    </array>
+                </dict>
+            </plist>
+        </metadata>
+    </databaseInfo>
+    <object type="LMKEYVALUE" id="z103">
+        <attribute name="value" type="string">https://game-rainbow6.ubi.com/fr-fr/uplay/player-statistics/01db43bc-1258-4195-9a52-d16e9ec22738/multiplayer</attribute>
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="name" type="string">Referer</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z106"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z104">
+        <attribute name="value" type="string">Ubi_v1 t=ew0KICAidmVyIjogIjEiLA0KICAiYWlkIjogIjM5YmFlYmFkLTM5ZTUtNDU1Mi04YzI1LTJjOWI5MTkwNjRlMiIsDQogICJlbnYiOiAiUHJvZCIsDQogICJzaWQiOiAiMjk3MjVhMjUtZWU1Ni00Y2VhLWFmMmUtY2Y2NTViZTZmMjVjIiwNCiAgInR5cCI6ICJKV0UiLA0KICAiZW5jIjogIkExMjhDQkMiLA0KICAiaXYiOiAiNDZmaTBpN1l6eXBBcXRCaHNiZE1fdyIsDQogICJpbnQiOiAiSFMyNTYiDQp9.mkJ66xeuzba-pAcUBP9ls7CbdaxnrhcYSv6x_sCAmRj8KPOZQ7qbNBRMBbwPo2TKBgNh7lcMoE1u5RQA0WQqPqY0sZzWuBt2glNbcikm2azA1BrEUZqoKFvashzRKcXpNA1nqbcQEiStSfal407qNX2yWw7Zw1X7nQn9pnrRbfs08WihdtwhSryUq0wrWRlDpufOxPX6zw9YMNcVCRKH_LqKdCuiIsVRBKuJLaT_OUKJuGzifxlowIm8NVnwnvDR_5sw0ptr28m0xmeJrqKtq69knuc50vR3ACcQy0LtlIGKoZKX9SIIw8N7kCu6v-eZKOifwC7oR4J1UYiszuew3na4EMoMoHV6MOPskfHUMy-90_WaYIYNBU_bSAl91zo8q73Tfe8r3u_cMPzjB5Yvj40QVZ5JDlHyYwSfG-BJAG8x9JCrcEobn11pBOBEyoVBboqQtEZo7FYrE6xN0wZAyjSUBab8xciTDikizZno-RvMr4JbroNnN9Ln7zI97QAI2UqC8DhT0DcjeDKkG7ERx0GcHMR_SmNnjlOEdHGj33K2IKv0GK1wMRCm1SpwQ2f6GJ7TCGs7xpOqIIkNIJr47AG7Rytvs2IAjrRcv5KipNtdd227dDwsq8jRL5dw21I6Gf398-aouT9C2Tja02D_ewSuPs42uKXa8_PVQgUdaKL_DhPiJdtilB39GoSP6OElcMsj1ZdALmXOIGfFHVM0ou6v7DH0PolarrOSdcGchiydzsKKzCnampkw6LkfNsuTZabGX5ImpaRREa6aNYUs6uI73fCseplmyG3JrDWH8tOsTX95uU1haxl4Y2QypCg6JV1kXRpgtl6vsgpgQb9uh_rfOkt868-PvN821LoEa1vH2ycCdVNLJ4H6VQGrXiJOLD2MTH5iMCiBabx09388XM_oDNlG0Mv0TPEY3u6o9yv1SWNxAlVOMLTfdx1vYqLG2kSHcRWtvl8CvNgQ1tuAAhMp78NX102Jn4jUlMX72yy0w2JoB6B0sH_Lr8dVgkliXK2fpLKuLC4YNdfDBfq5MI-PZuEWhCBpozLp1kEwBkR-CNnubsYUbjR6g_xlFUD4b5edQZ-VUchTmq_RWi4996dyTG0Goj3kOzZIE3pLLgxfNyAPOavFHeCydg81PNl5W_xgg_Q_xUSx50A9-ytWpsqvqBZfhcfnOTGpiLnHWa7x5K5h_9ilRkgw7EjPrWh-oNYiKNM2pJYddCAgi6a1T0wpxjGsN5qwEAZjv2NqFnpn5-2iJ3YB0cEZa-Uj8aWwSn1Om73jTo6F2U98DQE5pC98QJEAnJ41NwNBrA9h9fdlRAZ3armgvvWlqT_BvckV6ej0SSNw-VHm732-6ccLDDr5k929o_HrnUjAfnzQYQ0UWWEP_pmpcGwUNmOPLnZAOS6LRUWJ7i5ldW9zjhH-ZQ.u21US1GkbkBJVHCwPuSQozZLNxwX6rMd8nxuenDaaTE</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Authorization</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z106"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z105">
+        <attribute name="value" type="string">250ba7fe-8d42-4d00-a24d-bc5d38d9e9d4</attribute>
+        <attribute name="order" type="int64">3</attribute>
+        <attribute name="name" type="string">Ubi-SessionId</attribute>
+        <attribute name="enabled" type="bool">0</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z106"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z106">
+        <attribute name="body" type="string"></attribute>
+        <attribute name="uuid" type="string">39F578B0-0C46-4494-B6CD-8DDF0E4F18C8</attribute>
+        <attribute name="url" type="string">https://public-ubiservices.ubi.com/v1/spaces/5172a557-50b5-4665-b7db-e3f2e8c5041d/sandboxes/OSBOR_PC_LNCH_A/playerstats2/statistics?populations=01db43bc-1258-4195-9a52-d16e9ec22738\u2600statistics=secureareapvp_bestscore,casualpvp_matchwon,casualpvp_matchlost,casualpvp_timeplayed,casualpvp_matchplayed,casualpvp_kills,casualpvp_death,rankedpvp_matchwon,rankedpvp_matchlost,rankedpvp_timeplayed,rankedpvp_matchplayed,rankedpvp_kills,rankedpvp_death,operatorpvp_timeplayed,operatorpvp_smoke_poisongaskill</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">GET</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">2</attribute>
+        <attribute name="name" type="string">GET RAPHAEL</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z104 z105 z107 z112 z103"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z107">
+        <attribute name="value" type="string"></attribute>
+        <attribute name="order" type="int64">4</attribute>
+        <attribute name="name" type="string"></attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z106"></relationship>
+    </object>
+    <object type="LMCOOKIEJAR" id="z108">
+        <attribute name="uuid" type="string">B3EDB67F-AA23-4253-9218-C297730CA7A5</attribute>
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="name" type="string">Default Jar</attribute>
+    </object>
+    <object type="LMENVIRONMENTDOMAIN" id="z110">
+        <attribute name="uuid" type="string">EE3C9AD7-D6CB-4AAB-95FE-E50F3A2F563E</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Default Domain</attribute>
+        <relationship name="environments" type="0/0" destination="LMENVIRONMENT" idrefs="z114"></relationship>
+        <relationship name="variables" type="0/0" destination="LMENVIRONMENTVARIABLE" idrefs="z113"></relationship>
+    </object>
+    <object type="LMENVIRONMENTVARIABLEVALUE" id="z111">
+        <attribute name="value" type="string"></attribute>
+        <relationship name="environment" type="1/1" destination="LMENVIRONMENT" idrefs="z114"></relationship>
+        <relationship name="variable" type="1/1" destination="LMENVIRONMENTVARIABLE" idrefs="z113"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z112">
+        <attribute name="value" type="string">39baebad-39e5-4552-8c25-2c9b919064e2</attribute>
+        <attribute name="order" type="int64">2</attribute>
+        <attribute name="name" type="string">Ubi-AppId</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z106"></relationship>
+    </object>
+    <object type="LMENVIRONMENTVARIABLE" id="z113">
+        <attribute name="uuid" type="string">30C0F252-6E11-4863-8AF1-94CC4F4CDCC3</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string"></attribute>
+        <relationship name="domain" type="0/1" destination="LMENVIRONMENTDOMAIN" idrefs="z110"></relationship>
+        <relationship name="values" type="0/0" destination="LMENVIRONMENTVARIABLEVALUE" idrefs="z111"></relationship>
+    </object>
+    <object type="LMENVIRONMENT" id="z114">
+        <attribute name="uuid" type="string">4A929055-54E8-43CB-B2D0-3CC27B5CA649</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Default Environment</attribute>
+        <relationship name="domain" type="0/1" destination="LMENVIRONMENTDOMAIN" idrefs="z110"></relationship>
+        <relationship name="variablesvalues" type="0/0" destination="LMENVIRONMENTVARIABLEVALUE" idrefs="z111"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z115">
+        <attribute name="value" type="string">https://game-rainbow6.ubi.com/fr-fr/uplay/player-statistics/a8910982-2b67-4787-a45a-303693aa6860/multiplayer</attribute>
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="name" type="string">Referer</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z120"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z116">
+        <attribute name="value" type="string">Ubi_v1 t=ew0KICAidmVyIjogIjEiLA0KICAiYWlkIjogIjM5YmFlYmFkLTM5ZTUtNDU1Mi04YzI1LTJjOWI5MTkwNjRlMiIsDQogICJlbnYiOiAiUHJvZCIsDQogICJzaWQiOiAiZDg2NjgwOWYtMzAzYS00ZGY5LWFlMzMtMmQ4ZTM2NDM3MDM5IiwNCiAgInR5cCI6ICJKV0UiLA0KICAiZW5jIjogIkExMjhDQkMiLA0KICAiaXYiOiAib19mdnI5cnB3UVppVE9HQkZWZjBCZyIsDQogICJpbnQiOiAiSFMyNTYiDQp9.G-fp-RtDtg4ELTRikip-Gx_sDTSwT95fra3AChYkSCnI_87RAkPLDmkwUxIATRNMtk0CC7OwI5dinDxMzc5vD3yWua7CBS3y9b9OlBqzEaeWFzFg1OpdpT6CNRzkjnFy3jrf1lAKY_XhEI_WPYOwCqyJE8uIqpkblnjwaQ9zhN85mJyn1dCUoQH9i7t3gvTliN2zAqBpkgE1knp1Q761PLx4EwQ2Xf_VuwW4k6AUSwkX0b1cqFYBP-Dhs3w0ycaXV31YHH3GGxL0tNlEY5oBN5yjjFy0sNaeBvLsT-H7xiQoAxSQce3YAn7rOowAMAb6NOAu5V8LsX9Qw5UyXEiKcRDv5nZE_qiJFDdKBeqUHQTw7j8-o60nhfOCaPm4E9wBBmlM_tPXFljPJycO25gfcO1R2hqoyrBaw2fGJ_J2j9ZBbDEyUAf4sqVLaYWKBOtrBb3M-zVmrkJoALw5Zw8SpyCpPsBi_V5kOP8Dz8CWljaJTWAF5JwfMzSiZp0lA2t0mDZQjBKdXxMnbfChrCQx5Z3RwnMenXLpuoePmQc2yyuBsrljzJK2Ayku5D7567YC6YpASaxrQQHhP9eIzbUZnaolDFR4F1yW8cIUfWrDKdiCRR5U1YXfDRZkTyYzup2ONHpM85hIxcAgZbjMdQW_xkQ0k2JHLDKLQXZzCSBO_Y9OM3saRadIDpD9inLavKTrQh2x-tFdr_cuZtWDigOAxm5iotZmf3ZWjxr1cgjPRa83PXw8kvKxOEtS7t0QusdOj6VM5b5KC3UJogpUpzqC9T5Dn0m1-dVnDoKqI7-U1vxnjUqio2g_sU_Jf7cl4wE6om-2kalnPiS_Ifo-Skhr0QAfde29ZI-kQT-ucU9A-D5C_-Ts6c27jUHnc_pLDEEUh5aHCrRTKcYIPFSBPsxoJfAOGc-pAUy_B-qs-3cGSYxOBwk9RxZrteHJcMv1U_BLAn1pwMBBWSyWG9wGi_rNkLn1VSVAG16p1XOnZgCe-kC_zDPIH7zE0kOHDdMFwoQ2o0Ipf4jA44dZI2nVSuZ_64lYC4Qd48yfFVsJlHBH1de341ejbbIjFqFKSojOFCpEsQWxE3dLWzTq43FiLwaLT4Q8fNJfwbhsUx5daeunvhQ.BUMKs2nykBDOb8RzR5EgQZibcK62zBjs1gxZZYjmxsc</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Authorization</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z120"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z117">
+        <attribute name="value" type="string"></attribute>
+        <attribute name="order" type="int64">4</attribute>
+        <attribute name="name" type="string"></attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z120"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z118">
+        <attribute name="value" type="string">d866809f-303a-4df9-ae33-2d8e36437039</attribute>
+        <attribute name="order" type="int64">3</attribute>
+        <attribute name="name" type="string">Ubi-SessionId</attribute>
+        <attribute name="enabled" type="bool">0</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z120"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z119">
+        <attribute name="value" type="string">39baebad-39e5-4552-8c25-2c9b919064e2</attribute>
+        <attribute name="order" type="int64">2</attribute>
+        <attribute name="name" type="string">Ubi-AppId</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z120"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z120">
+        <attribute name="uuid" type="string">E8435A06-A3A7-47B2-A535-26022950F706</attribute>
+        <attribute name="url" type="string">https://public-ubiservices.ubi.com/v1/spaces/5172a557-50b5-4665-b7db-e3f2e8c5041d/sandboxes/OSBOR_PC_LNCH_A/playerstats2/statistics?populations=a8910982-2b67-4787-a45a-303693aa6860\u2600statistics=secureareapvp_bestscore,casualpvp_matchwon,casualpvp_matchlost,casualpvp_timeplayed,casualpvp_matchplayed,casualpvp_kills,casualpvp_death,rankedpvp_matchwon,rankedpvp_matchlost,rankedpvp_timeplayed,rankedpvp_matchplayed,rankedpvp_kills,rankedpvp_death,operatorpvp_timeplayed,operatorpvp_smoke_poisongaskill</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">GET</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">3</attribute>
+        <attribute name="name" type="string">GET TENAGA</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z117 z119 z116 z115 z118"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z121">
+        <attribute name="value" type="string">d866809f-303a-4df9-ae33-2d8e36437039</attribute>
+        <attribute name="order" type="int64">3</attribute>
+        <attribute name="name" type="string">Ubi-SessionId</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z124"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z122">
+        <attribute name="value" type="string">Ubi_v1 t=ew0KICAidmVyIjogIjEiLA0KICAiYWlkIjogIjM5YmFlYmFkLTM5ZTUtNDU1Mi04YzI1LTJjOWI5MTkwNjRlMiIsDQogICJlbnYiOiAiUHJvZCIsDQogICJzaWQiOiAiMjUwYmE3ZmUtOGQ0Mi00ZDAwLWEyNGQtYmM1ZDM4ZDllOWQ0IiwNCiAgInR5cCI6ICJKV0UiLA0KICAiZW5jIjogIkExMjhDQkMiLA0KICAiaXYiOiAidjJoSDdYcnFBVHZzSFhsaGFIb0xCUSIsDQogICJpbnQiOiAiSFMyNTYiDQp9.n7K8Hi6laR0N8a4MYq2jWBSmy5VE1QTiuUamNuwJZoL4PDlgJ1c0B5_5nD1Gl3CsaKPSar7vz0_nR4_-4weKakgSzePwbF2BY8K4KKgBHIg61aB20kjm-CQGt1_Eazys3LWOQupmnzvOMVeQizJ0PJE9dSppoUBOkowXzdRtQrSi3rcWc9NUAMbkGHetFoXmCt8iFYVgxeHPZelzmVQMFSp9_FrJM3VG9IweOpC_JBB4NFDThhe-EqCDx3oILUw-NOG23mCTWySTB2OBez_I99NCquOVhXAecITv3J6IcwZ1mWdkmiOstd34kKQIZ_yD0uGxgYIpz99Dnm_GQVpbmjEUZAv7LxZCtIJcXzDZJ2zZxKOnBC_eDrzQgW0Lqf303ve_LWETBmMH34VaCUN8SSjZYP9AETd02_75YUMjUPJjOZydgVmupjY46YSoRbcMFUg-Sq4OA9OfOeUwekzcx-OeS5vf_xnRdsg9Z3uRinHxoZnvMR5EbNDhErpO5_QkzNqoS8bBaYDiZXtGwwYdQW5svl5DGJOnZPuNYDzZ9oA4Svd9lsMbBfh7kXF-hY4wJtAVszwEjnK_d2CjrXV9BMYKt1AzGERk17WMn-hMI7-H2ym6GsTuKKN8RtuYKfix1Ip_7lqb8qBNTcrLlvU00TZOEwnJ0dL4NU4BPhfj0ogccATmz2COqpnUZCmy1VNCGYpNwwj3rW7RWngT_mWYIvECR-Ix7Ac4zyA9cXLx6N0lFNGrMkBnqq822PvwhKcaDABh79xHx9z6w3RjkG2dRboC2S5aDEcIey_4hLrJgAO0vpfcA7uaVTuW1yxyRkXWwLmdzpmXro6plED78BVW5msYKGtqoqiK0cMTfTLcHMe41f4Xpf5PEy8-mfDmayBHyb34YbPRgt1l-WgVnhzO5ptkkz2o_DZVnkpXnG6pzuvRtrY_3EKZH_Obu3Ybzwee5eOBbCp50EAWRlj7kd_SOHLuS2IsiPU8k8WNu2oDgDT0GXmFII83JerNyM_GdNYc6GTEqHRcwCbWF6SWKhRfxbikb39x-vuWEKjUYap2xuIuKP6XVthgF9UNnigiOIwUt-8lJReVvRsbsqgS2zkfLGbO4fEn2rZIM1J14hGNf3A.iq930YtQDSH_9x6aqtfvvlarl6qfF0KXSzD_59PGq0Y</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Authorization</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z124"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z123">
+        <attribute name="value" type="string">https://game-rainbow6.ubi.com/fr-fr/uplay/player-statistics/7a1a3640-f855-48d9-be55-813c73e82e16/multiplayer</attribute>
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="name" type="string">Referer</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z124"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z124">
+        <attribute name="uuid" type="string">442E8676-1153-4DB2-B083-5AD88B09D49D</attribute>
+        <attribute name="url" type="string">https://public-ubiservices.ubi.com/v1/spaces/5172a557-50b5-4665-b7db-e3f2e8c5041d/sandboxes/OSBOR_PC_LNCH_A/playerstats2/statistics?populations=7a1a3640-f855-48d9-be55-813c73e82e16\u2600statistics=secureareapvp_bestscore,casualpvp_matchwon,casualpvp_matchlost,casualpvp_timeplayed,casualpvp_matchplayed,casualpvp_kills,casualpvp_death,rankedpvp_matchwon,rankedpvp_matchlost,rankedpvp_timeplayed,rankedpvp_matchplayed,rankedpvp_kills,rankedpvp_death,operatorpvp_timeplayed,operatorpvp_smoke_poisongaskill</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">GET</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">4</attribute>
+        <attribute name="name" type="string">GET CHANING</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z126 z121 z123 z125 z122"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z125">
+        <attribute name="value" type="string"></attribute>
+        <attribute name="order" type="int64">4</attribute>
+        <attribute name="name" type="string"></attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z124"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z126">
+        <attribute name="value" type="string">39baebad-39e5-4552-8c25-2c9b919064e2</attribute>
+        <attribute name="order" type="int64">2</attribute>
+        <attribute name="name" type="string">Ubi-AppId</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z124"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z127">
+        <attribute name="value" type="string"></attribute>
+        <attribute name="order" type="int64">4</attribute>
+        <attribute name="name" type="string"></attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z129"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z128">
+        <attribute name="value" type="string">d866809f-303a-4df9-ae33-2d8e36437039</attribute>
+        <attribute name="order" type="int64">3</attribute>
+        <attribute name="name" type="string">Ubi-SessionId</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z129"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z129">
+        <attribute name="uuid" type="string">E5CD4908-798F-411F-A560-F8F38A97A541</attribute>
+        <attribute name="url" type="string">https://public-ubiservices.ubi.com/v1/spaces/5172a557-50b5-4665-b7db-e3f2e8c5041d/sandboxes/OSBOR_PC_LNCH_A/playerstats2/statistics?populations=f629ecb7-440f-4404-8818-e10c86d8a834\u2600statistics=secureareapvp_bestscore,casualpvp_matchwon,casualpvp_matchlost,casualpvp_timeplayed,casualpvp_matchplayed,casualpvp_kills,casualpvp_death,rankedpvp_matchwon,rankedpvp_matchlost,rankedpvp_timeplayed,rankedpvp_matchplayed,rankedpvp_kills,rankedpvp_death,operatorpvp_timeplayed,operatorpvp_smoke_poisongaskill</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">GET</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">5</attribute>
+        <attribute name="name" type="string">GET NEITSA</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z127 z128 z130 z131 z132"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z130">
+        <attribute name="value" type="string">Ubi_v1 t=ew0KICAidmVyIjogIjEiLA0KICAiYWlkIjogIjM5YmFlYmFkLTM5ZTUtNDU1Mi04YzI1LTJjOWI5MTkwNjRlMiIsDQogICJlbnYiOiAiUHJvZCIsDQogICJzaWQiOiAiMjk3MjVhMjUtZWU1Ni00Y2VhLWFmMmUtY2Y2NTViZTZmMjVjIiwNCiAgInR5cCI6ICJKV0UiLA0KICAiZW5jIjogIkExMjhDQkMiLA0KICAiaXYiOiAiSTJtUnlvMk9OV1ludjY2RS1VTTFuZyIsDQogICJpbnQiOiAiSFMyNTYiDQp9.gvFACTs9M2da0RK8npNWUvdC75bUSUtamnMA7jgnRFtPvtEUSLZzqSXQTzflgDdSU3Rxg015dp7tp8ll2J_ca8rghsh6Kzwu0qmit3A06FYicsPFExRcP-OHYsCPv4xBOOocKifcKk0HgKDHx4THkRFN-l_UePseYRbkE13ydNLzDbgzIZCIyz8SchKZ10k0pDoEtM9BUBrOCY3zTSC8W-iQHGl9sTn3BHpaHH5cVM3rc0vJxkIe9Z1WEd18Vq6wPFYu4S_DuoHQQbjQG3tVYSOYjl8jCiACleDew7Inwfvv1foSHfKYP0fK8zJTueG5iZn8_MlTkhSYt7wcPngm08KSk8X06PZ_Jc439lkAgfBQZ9XuAr9K2AQlkGB6TMtH6S4x9HA9OyEIccHAFqgenuyBwRFkiSv-ZrSiAD0cqRDDfTQlLVTVw6_VVYP2TpKQL0c6g-F_jQvpAGkYGgF8l3d7-loLJS9djH-VYMBjaYyYjOz3b1Q7WPXNS2YcK6nSYjp7Eu7IIEHgF_0OUy8pvnGXthyND52eYyJv5nlgDWQq7vh8kr6Z1Sbf0cewzD7J3ASbiWcyJvsGSUlOFJN6huFbGbOYaXkvTfifh-bdK6mnv2goABYpdGqWJDEbb9NpiFrzW4qnNOFdejp-DB4kF_QoZkLC0WFs0UhXmdCIkvlh2BTUckYTPDsmsfbfc4-9-A0EsxsylomRE6ULy4ytkeIdd1cM_lQZRnrkz64v1CgIGpKDN640r6pakcEwRhatIs82gtEqNLUIG1x6pNge3MvWpUdHAiOx29hWIUfNDGwwE6ONLQeed9zJQ-psfH_23rqye3NHrNoctP04Mp27kPSsQdV7EAkbCEXx4QXsXI-wqZXs_HJ1Ib2XTzg8795OatdltkMKPEuhQ4SKmFqUo6kODj4Oo9xfbxYVi8BfQ9jeqF1QGW0qqmk4NuakeBIHHL8utWQcErxn7psi3BQZ-PSl-PZ65dXoWMn7n3qXbH3Ji3cRACbiSCldKSMTvMyhZtCxwbuaSuRU7yQqgOcPya-Ip1mX6Kvk3FpZ3-BbTCsBLOaCqJ3OanT5HZtVcrLhJ_AzOwDc1CKmIk31JzJVi32nVEQYIkwOjJ1qFvHdiFnBLTrIwFOhvYjDon6bGRKmLMI2wBDylSmyYYORQlcj3u5zH-7cWkMACXWt7Giaa_zHrZMA6z90eq1W3KTp_Kqo2FPi3rel7OWI7K78JGQ4G_8Qr0zrpa8ZfpkL1mdHGK7MXuiGlxuMACSqfYBvtdCq8B3cPQet2eJiTapu6Ffhh6mcte_CJXxVxVGUAD1VsrboWxXnCXU5sM5elOXONj66znu_cxObnOt0_cck9727E_bfOHdFe4u9suYCCBo6vicYcENAbPe8qIKBu81_ki3AxrldGiM2Nj31xBAeqp9bzg.daOwyqG4wT_In1k_XoPQPhWdOdhlhcX3WgjIqkbd9Lg</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Authorization</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z129"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z131">
+        <attribute name="value" type="string">https://game-rainbow6.ubi.com/fr-fr/uplay/player-statistics/f629ecb7-440f-4404-8818-e10c86d8a834/multiplayer</attribute>
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="name" type="string">Referer</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z129"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z132">
+        <attribute name="value" type="string">39baebad-39e5-4552-8c25-2c9b919064e2</attribute>
+        <attribute name="order" type="int64">2</attribute>
+        <attribute name="name" type="string">Ubi-AppId</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z129"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z133">
+        <attribute name="value" type="string"></attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string"></attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z134"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z134">
+        <attribute name="body" type="string">[{"data":{"json":"{}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
+        <attribute name="uuid" type="string">F3B5FC51-3633-4D42-986C-164448D24C98</attribute>
+        <attribute name="url" type="string">https://rainbowsix7nightbot.herokuapp.com/rainbowsix7.php?platform=uplay\u2600nick=f0sterr.\u2600command=stats</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">POST</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">My API (2)</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z133"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z135">
+        <attribute name="uuid" type="string">7A0DF2AF-C4C2-4E2A-AD8F-79103009264B</attribute>
+        <attribute name="url" type="string">https://r6stats.com/stats/uplay/f0sterr.</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">GET</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="name" type="string">My API (2)</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z136"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z136">
+        <attribute name="value" type="string"></attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string"></attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z135"></relationship>
+    </object>
+</database>

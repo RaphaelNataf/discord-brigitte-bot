@@ -60,7 +60,16 @@ new Array('ping',
 	'suce un pouce',
 	'J\'aurai pas aimé xDD, défonce le putain',
 	'!r6',
-	'@everyone, Go jouer à Rainbow Six: Siege !')
+	'@everyone, Go jouer à Rainbow Six: Siege !',
+	'indignité',
+	'http://imgur.com/a/HSy5X',
+	'indignite',
+	'http://imgur.com/a/HSy5X',
+	'quelle indignité',
+	'http://imgur.com/a/HSy5X',
+	'quelle indignite',
+	'http://imgur.com/a/HSy5X'
+	)
   // client.on('message', function (message) {
 //   if (message.content === 'takumi!') {
 //     message.reply('http://imgur.com/a/gIgG6');

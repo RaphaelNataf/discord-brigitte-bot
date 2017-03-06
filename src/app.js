@@ -1,5 +1,9 @@
+import express from 'express'
 import textFeatures from './features.js'
+import http from 'http'
 
+const request = require("request");
+const app = express()
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
@@ -17,7 +21,7 @@ bot.on('ready', () => {
 
 bot.on('emojiCreate', emoji => {
   // get the channel by its ID
-  let ch1 = bot.channels.get('287545957074206720');
+  let ch1 = bot.channels.get('286083241277128704');
   // général -> 286083241277128704
   // shitpost -> 287545957074206720
   // send the message, mentioning the member
@@ -48,4 +52,22 @@ bot.on('message', message => {
 // https://rainbowsix7nightbot.herokuapp.com/rainbowsix7.php?platform=uplay&nick=f0sterr.&command=rank
 
 
+
+request({
+  uri: "http://clementvion.fr",
+  method: "GET",
+  timeout: 150000,
+  followRedirect: true,
+  maxRedirects: 100
+}, function(error, response, body) {
+  console.log(body);
+});
+
+// setInterval(function() {
+//   http.get('http://www.sansfrancis.co');
+// }, 10000);
+
 bot.login('Mjg2MTI1MjQ4OTc2MjU3MDI0.C5cQsA.dJ3tAoNGKMKXxTSeIQWh7RmGXtM');
+
+app.listen(process.env.PORT || 3000)
+
