@@ -54,7 +54,7 @@ bot.on('message', message => {
 
 
 request({
-  uri: "http://clementvion.fr",
+  uri: "https://rainbowsix7nightbot.herokuapp.com/rainbowsix7.php?platform=uplay&nick=f0sterr.&command=rank",
   method: "GET",
   timeout: 150000,
   followRedirect: true,
