@@ -1,6 +1,6 @@
 var textFeatures = 
 new Array('ping',
-	'vos daronnes y boivent du sprite sa mère',
+	':denis:',
 	'booster',
 	'Ah mais c\'est mon petit f0ster meister ça!',
 	'tenaga',
@@ -68,7 +68,19 @@ new Array('ping',
 	'quelle indignité',
 	'http://imgur.com/a/HSy5X',
 	'quelle indignite',
-	'http://imgur.com/a/HSy5X'
+	'http://imgur.com/a/HSy5X',
+	'ya',
+	'https://giphy.com/gifs/l0Iy6dwHVErwWcRK8',
+	'yaa',
+	'https://giphy.com/gifs/l0Iy6dwHVErwWcRK8',
+	'yaaa',
+	'https://giphy.com/gifs/l0Iy6dwHVErwWcRK8',
+	'yah',
+	'https://giphy.com/gifs/l0Iy6dwHVErwWcRK8',
+	'yaa!',
+	'https://giphy.com/gifs/l0Iy6dwHVErwWcRK8',
+	'yaah',
+	'https://giphy.com/gifs/l0Iy6dwHVErwWcRK8'
 	)
   // client.on('message', function (message) {
 //   if (message.content === 'takumi!') {
